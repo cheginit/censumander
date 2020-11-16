@@ -10,6 +10,6 @@ dependencies:
   - mdp
   - bottleneck
   - matplotlib-base
-  - geopandas
+  - geopandas=0.2
   - descartes
   - shapely
