@@ -6,7 +6,7 @@ dependencies:
   - numpy
   - scipy
   - pysal
-  - pandas
+  - pandas=0.16.0
   - mdp
   - bottleneck
   - matplotlib-base
